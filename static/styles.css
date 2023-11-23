@@ -11,3 +11,14 @@ body {
 #content {
     margin-left: 3em;
 }
+
+#hidden_text {
+    color: white;
+}
+
+#secret {
+    background: white;
+    display: block;
+    height: 400px;
+    width: 800px;
+}
